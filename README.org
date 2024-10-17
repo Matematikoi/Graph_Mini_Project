@@ -1,0 +1,8 @@
+#+Title: Graph Mini-Project
+
+Repository to store CentraleSupelec Massive graph management 1st miniproject.
+
+
+* Authors
+1. Gabriel Lozano
+2. Qasim Khan
